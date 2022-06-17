@@ -1,0 +1,17 @@
+body{
+    background: #f0f0f0
+}
+
+main .col {
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-top: 90px;
+}
+
+main .card-header py-3 {
+    background: #B8C5CB
+}
+
+main hr {
+    color: #B8C5CB;
+}
